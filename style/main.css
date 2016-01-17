@@ -1,0 +1,19 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    font-size: 18px;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.airy-bottom {
+    margin-bottom: 2em;
+}
+
+h2 {
+    margin-top: 2em;
+}
